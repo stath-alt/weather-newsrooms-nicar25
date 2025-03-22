@@ -1,5 +1,5 @@
 # SOURCE_URL:="https://api.weather.gov/alerts/active?status=actual&area=CA&code=HWW"
-SOURCE_URL:="https://api.weather.gov/alerts/active?status=actual&message_type=alert&code=WSW&area=MT"
+SOURCE_URL:="https://api.weather.gov/alerts/active?status=actual&message_type=alert&code=WSW&area=MN"
 
 all: clean download slack
 
